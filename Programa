@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main()
+  {
+   double base,altura;
+   cout<<"Ingrese la base y la altura : "<<endl;
+   cin>>base>>altura;
+   cout<<"El area del triangulo es"<<(base*altura)/2<<endl;
+}
